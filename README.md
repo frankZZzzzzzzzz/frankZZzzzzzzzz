@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm currently a student at Queens College graduating Spring 2029.
+Open to any internship opportunities.
+
+# Building:
+- Weather website
+
 <!--
 **frankZZzzzzzzzz/frankZZzzzzzzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
